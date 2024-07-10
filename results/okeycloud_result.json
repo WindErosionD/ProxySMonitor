@@ -1,0 +1,87 @@
+[
+    {
+        "node_name": "JP 01",
+        "pingRecord": {
+            "ping_times": 2,
+            "ping_suc": 2,
+            "gPings": [
+                {
+                    "test_time": "2024-07-09-15-29-22",
+                    "gPing": 0.3895011842250824
+                },
+                {
+                    "test_time": "2024-07-09-15-36-48",
+                    "gPing": 0.45452449056837296
+                }
+            ]
+        }
+    },
+    {
+        "node_name": "套餐到期：长期有效",
+        "pingRecord": {
+            "ping_times": 2,
+            "ping_suc": 2,
+            "gPings": [
+                {
+                    "test_time": "2024-07-09-15-29-22",
+                    "gPing": 0.2570523500442505
+                },
+                {
+                    "test_time": "2024-07-09-15-36-48",
+                    "gPing": 0.28735902309417727
+                }
+            ]
+        }
+    },
+    {
+        "node_name": "HK 02",
+        "pingRecord": {
+            "ping_times": 2,
+            "ping_suc": 2,
+            "gPings": [
+                {
+                    "test_time": "2024-07-09-15-29-22",
+                    "gPing": 0.27472851276397703
+                },
+                {
+                    "test_time": "2024-07-09-15-36-48",
+                    "gPing": 0.2538002967834473
+                }
+            ]
+        }
+    },
+    {
+        "node_name": "US 01",
+        "pingRecord": {
+            "ping_times": 2,
+            "ping_suc": 2,
+            "gPings": [
+                {
+                    "test_time": "2024-07-09-15-29-22",
+                    "gPing": 0.8521429962582059
+                },
+                {
+                    "test_time": "2024-07-09-15-36-48",
+                    "gPing": 0.8149143695831299
+                }
+            ]
+        }
+    },
+    {
+        "node_name": "SG 01",
+        "pingRecord": {
+            "ping_times": 2,
+            "ping_suc": 2,
+            "gPings": [
+                {
+                    "test_time": "2024-07-09-15-29-22",
+                    "gPing": 0.4646096706390381
+                },
+                {
+                    "test_time": "2024-07-09-15-36-48",
+                    "gPing": 0.37770130634307864
+                }
+            ]
+        }
+    }
+]
